@@ -1,4 +1,11 @@
-*.tex
+*.toc
+*.gz
+*.snm
+*.out
+*.nav
+*.log
+*.aux
 *.png
 *.jpg
+*.tex
 .DS_Store
